@@ -59,6 +59,13 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
+		B5D91B1F27F2565400B15BA3 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		B5E068E427EC290500081295 = {
 			isa = PBXGroup;
 			children = (
@@ -78,6 +85,7 @@
 		B5E068EF27EC290500081295 /* Trello-MVVM-SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				B5D91B1F27F2565400B15BA3 /* Views */,
 				B5D91B0F27EECE2A00B15BA3 /* Models */,
 				B5E068F027EC290500081295 /* Trello_MVVM_SwiftUIApp.swift */,
 				B5E068F227EC290500081295 /* ContentView.swift */,
