@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct Trello_MVVM_SwiftUIApp: App {
+struct TrelloCloneApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BoardView()
         }
     }
 }
