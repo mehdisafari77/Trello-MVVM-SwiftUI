@@ -47,7 +47,7 @@ class BoardList: NSObject, ObservableObject, Identifiable, Codable {
 
 extension BoardList: NSItemProviderWriting {
     
-    static let typeIdentifier = "com.alfianlosari.TrelloClone.BoardList"
+    static let typeIdentifier = "com.mehdi.TrelloClone.BoardList"
     
     static var writableTypeIdentifiersForItemProvider: [String] {
         [typeIdentifier]
