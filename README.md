@@ -2,7 +2,7 @@
 A simple drag and drop Trello like task manager in SwiftUI. THIS IS V1, MORE FEATURES WILL BE ADDED IN FUTURE VERSIONS
 
 ## Summary
-This is a crypto tracking app using the CoinGecko to get data about coins, and users are able to add coins to their portfolio to keep track of them. Data is saved using CoreData and everything is coded in SwiftUI. (THE APP STILL HAS SIGNUP/SIGNIN YET TO BE IMPLEMENTED)
+This is a clone of basic Trello for task tracking and adding
 
 ## Built With
 * [SwiftUI](https://developer.apple.com/tutorials/swiftui)
